@@ -1,2 +1,2 @@
 # learning
-Exercise: Introduction to GitHub
+This is an exercise repo.
